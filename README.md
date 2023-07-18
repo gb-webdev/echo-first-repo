@@ -8,9 +8,9 @@ Git process
  remote - Github (the cloud)
 - cd into the repo
 - make a file - touch filename with extension
-- extension - what fioe type, ex: md, html, js, css
+- extension - what file type, ex: md, html, js, css
 - added content to file
-- added PPAT authentication (generate a new personal authentication token on Github)
+- added PAT authentication (generate a new personal authentication token on Github)
 Local ---> remote
 -git status
 - git add filename.ext
